@@ -1,0 +1,346 @@
+[
+  {
+    "id": "neck-rolls",
+    "name": "Neck Rolls",
+    "description": "Gentle neck stretches to relieve tension from desk work",
+    "instructions": [
+      "Sit up straight in your chair",
+      "Slowly roll your head in a clockwise direction",
+      "Complete 5 circles clockwise",
+      "Reverse direction and do 5 counter-clockwise circles",
+      "Move slowly and gently"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["neck", "shoulders"],
+    "equipment": []
+  },
+  {
+    "id": "shoulder-shrugs",
+    "name": "Shoulder Shrugs",
+    "description": "Release shoulder tension and improve posture",
+    "instructions": [
+      "Sit or stand with arms at your sides",
+      "Lift your shoulders up toward your ears",
+      "Hold for 2-3 seconds",
+      "Release and let shoulders drop",
+      "Repeat 10-15 times"
+    ],
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["shoulders", "upper back"],
+    "equipment": []
+  },
+  {
+    "id": "wrist-circles",
+    "name": "Wrist Circles",
+    "description": "Prevent wrist strain from typing and mouse use",
+    "instructions": [
+      "Extend your arms in front of you",
+      "Make slow circles with your wrists",
+      "Do 10 circles in each direction",
+      "Flex and extend your fingers",
+      "Shake out your hands"
+    ],
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["wrists", "forearms"],
+    "equipment": []
+  },
+  {
+    "id": "desk-push-ups",
+    "name": "Desk Push-ups",
+    "description": "Upper body strength exercise using your desk",
+    "instructions": [
+      "Stand arm's length from your desk",
+      "Place hands on desk edge, shoulder-width apart",
+      "Keep body straight and lean forward",
+      "Push back to starting position",
+      "Complete 10-15 repetitions"
+    ],
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "strength",
+    "bodyParts": ["chest", "arms", "shoulders"],
+    "equipment": ["desk"]
+  },
+  {
+    "id": "calf-raises",
+    "name": "Calf Raises",
+    "description": "Strengthen calves and improve circulation",
+    "instructions": [
+      "Stand behind your chair for support",
+      "Lift up onto your toes",
+      "Hold for 2-3 seconds",
+      "Lower back down slowly",
+      "Repeat 15-20 times"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "strength",
+    "bodyParts": ["calves", "ankles"],
+    "equipment": []
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": "Seated Spinal Twist",
+    "description": "Improve spine mobility and reduce back stiffness",
+    "instructions": [
+      "Sit tall in your chair",
+      "Place right hand on left knee",
+      "Place left hand behind you",
+      "Gently twist to the left",
+      "Hold for 15-20 seconds",
+      "Repeat on the other side"
+    ],
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["spine", "core"],
+    "equipment": []
+  },
+  {
+    "id": "chair-squats",
+    "name": "Chair Squats",
+    "description": "Strengthen legs and glutes using your chair",
+    "instructions": [
+      "Stand in front of your chair",
+      "Lower yourself as if sitting down",
+      "Stop just before touching the chair",
+      "Stand back up slowly",
+      "Repeat 10-15 times"
+    ],
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "strength",
+    "bodyParts": ["legs", "glutes", "core"],
+    "equipment": ["chair"]
+  },
+  {
+    "id": "eye-exercises",
+    "name": "Eye Exercises",
+    "description": "Reduce eye strain from screen work",
+    "instructions": [
+      "Look away from your screen",
+      "Focus on something 20 feet away for 20 seconds",
+      "Blink 10 times slowly",
+      "Look up, down, left, right",
+      "Close eyes and rest for 10 seconds"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "eye care",
+    "bodyParts": ["eyes"],
+    "equipment": []
+  },
+  {
+    "id": "deep-breathing",
+    "name": "Deep Breathing",
+    "description": "Reduce stress and improve focus",
+    "instructions": [
+      "Sit comfortably with back straight",
+      "Place one hand on chest, one on belly",
+      "Breathe in slowly through nose",
+      "Feel your belly rise more than chest",
+      "Exhale slowly through mouth",
+      "Repeat 5-10 times"
+    ],
+    "duration": 120,
+    "difficulty": "easy",
+    "category": "breathing",
+    "bodyParts": ["lungs", "diaphragm"],
+    "equipment": []
+  },
+  {
+    "id": "wall-push-ups",
+    "name": "Wall Push-ups",
+    "description": "Gentle upper body exercise for beginners",
+    "instructions": [
+      "Stand arm's length from a wall",
+      "Place palms against wall at shoulder height",
+      "Lean forward and push back",
+      "Keep body straight throughout",
+      "Complete 10-15 repetitions"
+    ],
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "strength",
+    "bodyParts": ["chest", "arms", "shoulders"],
+    "equipment": ["wall"]
+  },
+  {
+    "id": "standing-quad-stretch",
+    "name": "Standing Quad Stretch",
+    "description": "Stretch front thigh muscles",
+    "instructions": [
+      "Stand next to your chair for support",
+      "Bend your right knee behind you",
+      "Hold your right ankle with your hand",
+      "Pull heel toward your glutes",
+      "Hold for 20-30 seconds",
+      "Repeat with left leg"
+    ],
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "stretching",
+    "bodyParts": ["quadriceps", "hip flexors"],
+    "equipment": []
+  },
+  {
+    "id": "hip-circles",
+    "name": "Hip Circles",
+    "description": "Improve hip mobility and reduce stiffness",
+    "instructions": [
+      "Stand with hands on hips",
+      "Make large circles with your hips",
+      "Do 10 circles clockwise",
+      "Do 10 circles counter-clockwise",
+      "Keep movements slow and controlled"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["hips", "core"],
+    "equipment": []
+  },
+  {
+    "id": "marching-in-place",
+    "name": "Marching in Place",
+    "description": "Light cardio to boost energy and circulation",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Lift right knee to waist level",
+      "Lower and lift left knee",
+      "Swing arms naturally",
+      "Continue for 1-2 minutes"
+    ],
+    "duration": 90,
+    "difficulty": "easy",
+    "category": "cardio",
+    "bodyParts": ["legs", "core"],
+    "equipment": []
+  },
+  {
+    "id": "ankle-circles",
+    "name": "Ankle Circles",
+    "description": "Improve ankle mobility and circulation",
+    "instructions": [
+      "Sit in your chair",
+      "Lift right foot off the ground",
+      "Make circles with your ankle",
+      "Do 10 circles in each direction",
+      "Repeat with left foot"
+    ],
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["ankles", "feet"],
+    "equipment": []
+  },
+  {
+    "id": "chest-doorway-stretch",
+    "name": "Chest Doorway Stretch",
+    "description": "Open chest muscles and improve posture",
+    "instructions": [
+      "Stand in a doorway",
+      "Place forearms on door frame",
+      "Step forward gently",
+      "Feel stretch across chest",
+      "Hold for 20-30 seconds"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["chest", "shoulders"],
+    "equipment": ["doorway"]
+  },
+  {
+    "id": "leg-extensions",
+    "name": "Seated Leg Extensions",
+    "description": "Strengthen quadriceps while seated",
+    "instructions": [
+      "Sit in your chair with back straight",
+      "Extend right leg straight out",
+      "Hold for 2-3 seconds",
+      "Lower slowly",
+      "Repeat 10-15 times per leg"
+    ],
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "strength",
+    "bodyParts": ["quadriceps", "knees"],
+    "equipment": ["chair"]
+  },
+  {
+    "id": "side-bends",
+    "name": "Standing Side Bends",
+    "description": "Stretch side muscles and improve flexibility",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Raise right arm overhead",
+      "Bend to the left side",
+      "Hold for 15-20 seconds",
+      "Return to center and repeat on other side"
+    ],
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["obliques", "sides"],
+    "equipment": []
+  },
+  {
+    "id": "forward-fold",
+    "name": "Standing Forward Fold",
+    "description": "Stretch hamstrings and relieve back tension",
+    "instructions": [
+      "Stand with feet hip-width apart",
+      "Slowly bend forward from hips",
+      "Let arms hang toward floor",
+      "Keep knees slightly bent",
+      "Hold for 20-30 seconds",
+      "Rise slowly"
+    ],
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "stretching",
+    "bodyParts": ["hamstrings", "back"],
+    "equipment": []
+  },
+  {
+    "id": "arm-circles",
+    "name": "Arm Circles",
+    "description": "Warm up shoulders and improve mobility",
+    "instructions": [
+      "Stand with arms extended to sides",
+      "Make small circles forward",
+      "Gradually make circles larger",
+      "Do 10 forward, 10 backward",
+      "Start small and grow the circles"
+    ],
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["shoulders", "arms"],
+    "equipment": []
+  },
+  {
+    "id": "seated-cat-cow",
+    "name": "Seated Cat-Cow Stretch",
+    "description": "Improve spinal flexibility while seated",
+    "instructions": [
+      "Sit tall in your chair",
+      "Place hands on knees",
+      "Arch your back and look up (cow)",
+      "Round your back and drop chin (cat)",
+      "Alternate slowly 10 times"
+    ],
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "stretching",
+    "bodyParts": ["spine", "back"],
+    "equipment": ["chair"]
+  }
+]
