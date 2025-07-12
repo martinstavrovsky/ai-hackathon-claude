@@ -12,6 +12,10 @@ export default function Profile() {
     ...state.profile,
   });
 
+  const [limitationsText, setLimitationsText] = useState(
+    state.profile?.limitations?.join(', ') || ''
+  );
+
   const [currentStep, setCurrentStep] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
 
@@ -139,8 +143,12 @@ export default function Profile() {
                 Physical Limitations or Injuries
               </label>
               <textarea
-                value={formData.limitations?.join(', ') || ''}
-                onChange={(e) => handleInputChange('limitations', e.target.value.split(',').map(s => s.trim()).filter(s => s))}
+                value={limitationsText}
+                onChange={(e) => {
+                  setLimitationsText(e.target.value);
+                  const limitations = e.target.value ? e.target.value.split(',').map(s => s.trim()).filter(s => s.length > 0) : [];
+                  handleInputChange('limitations', limitations);
+                }}
                 className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 placeholder="e.g., back pain, wrist injury (optional)"
                 rows={3}
