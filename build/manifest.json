@@ -1,0 +1,67 @@
+{
+  "short_name": "Workday Break",
+  "name": "Workday Break App",
+  "description": "Take structured breaks with personalized exercises to boost productivity and well-being",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "categories": ["health", "productivity", "fitness"],
+  "screenshots": [
+    {
+      "src": "screenshots/dashboard.png",
+      "type": "image/png",
+      "sizes": "1280x720"
+    },
+    {
+      "src": "screenshots/break-session.png",
+      "type": "image/png",
+      "sizes": "1280x720"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Quick Break",
+      "short_name": "Break",
+      "description": "Start a quick break session",
+      "url": "/break",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "short_name": "Dashboard",
+      "description": "View your break progress",
+      "url": "/dashboard",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

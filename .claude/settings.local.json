@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm start)",
+      "Bash(npm install)",
+      "WebFetch(domain:claude.ai)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(npm run build:*)",
+      "Bash(explorer.exe \"http://localhost:3000\")",
+      "Bash(xdg-open:*)",
+      "Bash(open \"http://localhost:3000\")",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(npm uninstall:*)"
+    ],
+    "deny": []
+  }
+}
